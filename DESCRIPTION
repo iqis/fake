@@ -13,3 +13,5 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/iqis/fake
 BugReports: https://github.com/iqis/fake/issues
+Imports: 
+    charlatan
