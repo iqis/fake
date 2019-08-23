@@ -15,4 +15,5 @@ URL: https://github.com/iqis/fake
 BugReports: https://github.com/iqis/fake/issues
 Imports: 
     charlatan,
-    ids
+    ids,
+    mod
